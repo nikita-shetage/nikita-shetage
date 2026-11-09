@@ -18,7 +18,6 @@ I am a developer dedicated to building scalable web solutions and exploring the 
 
 ## 🌟 Recent Works
 
-- **my-n8n-compose**: Developed a streamlined configuration for self-hosting n8n on Linux servers, focusing on workflow automation and infrastructure portability.
 - **Academix**: Architected a PHP-based platform designed to organize academic resources and simplify data management for educational environments.
 - **Portfolio Development**: Continuously iterating on my personal website and GitHub profile to showcase technical projects and document my professional growth.
 
